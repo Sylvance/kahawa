@@ -1,0 +1,31 @@
+{
+  "name": "kahawa",
+  "version": "1.0.0",
+  "description": "kahawa. kasomething",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvance/kahawa.git"
+  },
+  "keywords": [
+    "mpesa",
+    "coffee",
+    "kahawa",
+    "support"
+  ],
+  "author": "Sylvance Kerandi.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvance/kahawa/issues"
+  },
+  "homepage": "https://github.com/Sylvance/kahawa#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "prettyjson": "^1.2.1",
+    "request": "^2.88.0"
+  }
+}
